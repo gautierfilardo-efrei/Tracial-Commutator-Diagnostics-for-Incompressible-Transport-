@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this software version and the revised manuscript; include a release identifier when available."
+type: software
+title: "Reproducible checks for tracial commutator transport diagnostics"
+authors:
+  - family-names: Filardo
+    given-names: Gautier-Edouard
+    orcid: "https://orcid.org/0009-0005-8310-2065"
+version: "0.3.0"
+abstract: >-
+  Supplementary implementation for the revised transport-diagnostic manuscript.
+  Exact toral maps, Fourier cutoff bounds, small-time energy response, shear
+  counterexamples and trajectories of a decaying Beltrami velocity.
+  No Navier-Stokes regularity criterion or singularity solver is provided.

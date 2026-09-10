@@ -1,0 +1,33 @@
+{
+  "software": "Tracial transport diagnostics",
+  "version": "0.3.0",
+  "prepared_on": "2026-09-10",
+  "target_account": "gautierfilardo-efrei",
+  "remote_status": "not_created_in_this_session",
+  "hash_algorithm": "SHA-256",
+  "files": {
+    "CITATION.cff": "ce01659ded7d9e25cec8c7a7065993d94767b4736db6ca8365c925e70d2a2c83",
+    "benchmark_table.tex": "ecb035c35aeefbb505601d23a4443601cc2944f6143345a4d3fea99c7ce70f8b",
+    "diagnostics.py": "13e3f10f66659173cb1e1b5f5a3272018ecfbc6a3647493e0a8d5d3b3cced123",
+    "figures/cutoff_limits.pdf": "3069ffc4c7e69a5b2072cbe350158bba568009d0318b5d0e38647e7cd83dc0a4",
+    "figures/shear_blindness.pdf": "f0f1f967a23ec2fb54c0d8e9aee52efb6d1202053c964f656d3e4b6f1c935212",
+    "figures/small_time.pdf": "5e7f92eeef14b28090ee56bdc7d66955761261c9b8447c4c4bfc5417d8e1dec7",
+    "reproduce.py": "73bad186a2b536049d93cbf79e8bf8f22b95823841e2942ad4d9a846730e5283",
+    "requirements.txt": "4c40934e438ae009a1eb0b5a9322cce029fba6ca1af6e314c088c1957cee0c04",
+    "results/abc_final_integrand.npy": "6eedf35722321a0f06fec01064f219e62c8991968f0ce209213305ab3d9ebf43",
+    "results/abc_final_positions.npy": "2bf67f94efd0028de5b7acbc2dbb8edeb6767a955727d20415d81080b79d217a",
+    "results/abc_step_refinement.csv": "8fbc382b40afa23ad15ac72dca3fb89092d21c902aa06ef1954756c2ee03bba6",
+    "results/benchmarks.csv": "ba141997aacfc5375ebb35eb1e37f20e075d89aba9b41b5f52b35820f4129ea5",
+    "results/cat_map_integrand.npy": "ad66d1856e438832496b2d3ffb4f2fcb7fb7dd22213d8f9a60f88c49afafc759",
+    "results/cutoff_translation.csv": "0ed1b6b1c68532096ae02f1859593d91809d665ef93729f0ee2183c4aba3a59f",
+    "results/environment.json": "703966c4309f28072ca9da5ee93a843fc69ea9037c879b977246d736fb29ddb8",
+    "results/original_table_bound_audit.csv": "f755a16fbefbd2313bbdf004506b5d6a4c15b7fcbecb1169f065de20125f881b",
+    "results/sample_points.npy": "c67b0e949c75e917228e4a138c92a699a4efbb33f3585f48dce22b72d914c865",
+    "results/shear_counterexample.csv": "bf5471f22ff3be8c8444312290c7ef53c4e02b1406147e9cf3cce371def46492",
+    "results/small_time_abc.csv": "4a36ff570b97b80d4f6e350070cc712af6af72aa1761190bc1d5d7bfc8154baf",
+    "results/translation_integrand.npy": "b09382ebebcb04f732d67a5b76090d60009f20af5becea542d85c925d3949813",
+    "results/verification_report.txt": "e2b457a0a2cfab5cd952019652cd88065a18b179923468d896f28f44260f0bc8",
+    "tests/test_diagnostics.py": "3ba3ddeca6828458c38e227503066683b01003bd5b8f681e63726b845b90b7a9",
+    "verify_reproduction.py": "efa8de51c7b4568a87e2f661554607473f37b35823aaaf5ccb4afcc18fdb3553"
+  }
+}

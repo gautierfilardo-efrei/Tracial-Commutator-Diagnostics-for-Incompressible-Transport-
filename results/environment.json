@@ -1,0 +1,16 @@
+{
+  "seed": 20260910,
+  "N": 4096,
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.39",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "scope": "Fresh audit calculations; not a reproduction of unavailable original code.",
+  "sha256": {
+    "diagnostics.py": "13e3f10f66659173cb1e1b5f5a3272018ecfbc6a3647493e0a8d5d3b3cced123",
+    "reproduce.py": "73bad186a2b536049d93cbf79e8bf8f22b95823841e2942ad4d9a846730e5283",
+    "tests/test_diagnostics.py": "3ba3ddeca6828458c38e227503066683b01003bd5b8f681e63726b845b90b7a9",
+    "verify_reproduction.py": "efa8de51c7b4568a87e2f661554607473f37b35823aaaf5ccb4afcc18fdb3553",
+    "requirements.txt": "4c40934e438ae009a1eb0b5a9322cce029fba6ca1af6e314c088c1957cee0c04"
+  }
+}

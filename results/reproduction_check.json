@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "numerical_files_checked": [
+    "abc_step_refinement.csv",
+    "benchmarks.csv",
+    "cutoff_translation.csv",
+    "original_table_bound_audit.csv",
+    "shear_counterexample.csv",
+    "small_time_abc.csv",
+    "abc_final_integrand.npy",
+    "abc_final_positions.npy",
+    "cat_map_integrand.npy",
+    "sample_points.npy",
+    "translation_integrand.npy"
+  ],
+  "rtol": 1e-09,
+  "atol": 1e-10,
+  "figure_check": "existence only; PDF metadata are not compared",
+  "source_metadata": "matched current implementation"
+}

@@ -1,0 +1,17 @@
+test_abc_rk4_step_refinement (test_diagnostics.MathematicalChecks.test_abc_rk4_step_refinement) ... ok
+test_cat_map_closed_form (test_diagnostics.MathematicalChecks.test_cat_map_closed_form) ... ok
+test_dirichlet_formula_against_explicit_sum (test_diagnostics.MathematicalChecks.test_dirichlet_formula_against_explicit_sum) ... ok
+test_false_cocycle_counterexample (test_diagnostics.MathematicalChecks.test_false_cocycle_counterexample) ... ok
+test_identity_and_integer_translation (test_diagnostics.MathematicalChecks.test_identity_and_integer_translation) ... ok
+test_invalid_flow_parameters_are_rejected (test_diagnostics.MathematicalChecks.test_invalid_flow_parameters_are_rejected) ... ok
+test_invalid_fourier_parameters_are_rejected (test_diagnostics.MathematicalChecks.test_invalid_fourier_parameters_are_rejected) ... ok
+test_isotropic_fourier_moment (test_diagnostics.MathematicalChecks.test_isotropic_fourier_moment) ... ok
+test_nonfinite_or_malformed_inputs_are_rejected (test_diagnostics.MathematicalChecks.test_nonfinite_or_malformed_inputs_are_rejected) ... ok
+test_shear_frequency_blindness (test_diagnostics.MathematicalChecks.test_shear_frequency_blindness) ... ok
+test_small_displacement_stability (test_diagnostics.MathematicalChecks.test_small_displacement_stability) ... ok
+test_universal_bound (test_diagnostics.MathematicalChecks.test_universal_bound) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.043s
+
+OK
